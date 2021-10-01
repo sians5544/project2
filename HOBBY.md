@@ -12,6 +12,10 @@ I can speak Japanese.
 ## sian 
 
 제 취미는 음악감상이에요 정말인데요?
-그리고 커피 맛집 찾아 다니느걸 좋아합니다 
+그리고 커피 맛집 찾아 다니는걸 좋아해요 저는 한글이 좋아요  
 
-그럼 이만 
+```shell
+$ git reset --hard HEAD~3
+$ git push -f origin <branch>
+```
+## end -sian 

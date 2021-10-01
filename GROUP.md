@@ -3,7 +3,9 @@
 
 ## team name : goodzhunhe
 
-## member: 조용우,박시안, 허준혁
+## leader : 갓준혁 
+
+## member: 박시안, 조용우, 허준혁
 
 ##  gole : 네카라쿠배 존버
 

@@ -15,3 +15,7 @@ console.log("리더님의 취미는 보드게임을 하는 것입니다");
 I like to play board game.
 I can speak Japanese.
 
+```go
+fmt.Println("고랭 재밌어요")
+fmt.Println("https://www.gophercon.com/")
+```
